@@ -45,7 +45,7 @@ def getUsers():
     return users
 
 def checkMatch(users, tweet):
-    matches = [['Ramzi Abdulahi', 'UCV5R7RCG']]
+    matches = []
     for name in users:
         if re.search(r'\b' + name[0].split()[0] + r'\b', tweet, re.IGNORECASE):
             matches.append(name)       
