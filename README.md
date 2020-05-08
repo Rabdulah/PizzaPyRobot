@@ -1,5 +1,5 @@
 # PizzaPyRobot
-I used to work next to Stobies' Pizza, a local pizza shop that ran a cool ‘name of the day’ promotion. Every day they would randomly choose two names, and anyone who had one of those for a first name would get free pizza. The shop wrote the names on a chalkboard, and they’d also tweet out the names at roughly the same time every day. This gave me an idea—what if there was a script that would periodically read the shop’s tweets, and direct message co-workers and friends on Slack if they have a winning name that day? Well, now there is.
+I used to work next to Stobies' Pizza, a local pizza shop that ran a ‘name of the day’ promotion. Every day they would randomly choose two names, and anyone who had one of those names would get free pizza. The shop wrote the names on a chalkboard and they’d also tweet out the names at roughly the same time every day. This gave me an idea; what if there was a script that would periodically read the shop’s tweets, and direct message co-workers and friends on Slack if they have a winning name that day? Well, now there is.
 
 To run this code you'll need: 
 * A [twitter developer account](https://developer.twitter.com)
